@@ -1,0 +1,81 @@
+{
+  "sources": {
+    "background": [
+      "Dungeon Master's Guide",
+      "Player's Handbook",
+      "Sword Coast Adventurer's Guide",
+      "Tasha's Cauldron of Everything",
+      "Waterdeep: Dragon Heist",
+      "Xanathar's Guide to Everything"
+    ],
+
+    "class": [],
+
+    "feat": [
+      "Dungeon Master's Guide",
+      "Fizban's Treasury of Dragons",
+      "Monster Manual",
+      "Mordenkainen Presents: Monsters of the Multiverse",
+      "Player's Handbook",
+      "Sword Coast Adventurer's Guide",
+      "Tasha's Cauldron of Everything",
+      "Xanathar's Guide to Everything"
+    ],
+
+    "feature": [
+      "Dungeon Master's Guide",
+      "Fizban's Treasury of Dragons",
+      "Player's Handbook",
+      "Sword Coast Adventurer's Guide",
+      "Tasha's Cauldron of Everything",
+      "Xanathar's Guide to Everything"
+    ],
+
+    "item": [
+      "Dungeon Master's Guide",
+      "Player's Handbook",
+      "Sword Coast Adventurer's Guide",
+      "Tasha's Cauldron of Everything",
+      "Waterdeep: Dragon Heist",
+      "Waterdeep: Dungeon of the Mad Mage",
+      "Xanathar's Guide to Everything"
+    ],
+
+    "monster": [
+      "Dungeon Master's Guide",
+      "Fizban's Treasury of Dragons",
+      "Monster Manual",
+      "Mordenkainen Presents: Monsters of the Multiverse",
+      "Player's Handbook",
+      "Sword Coast Adventurer's Guide",
+      "Tasha's Cauldron of Everything",
+      "Waterdeep: Dragon Heist",
+      "Waterdeep: Dungeon of the Mad Mage",
+      "Xanathar's Guide to Everything"
+    ],
+
+    "race": [
+      "Fizban's Treasury of Dragons",
+      "Mordenkainen Presents: Monsters of the Multiverse",
+      "Player's Handbook",
+      "Sword Coast Adventurer's Guide",
+      "Tasha's Cauldron of Everything",
+      "Xanathar's Guide to Everything"
+    ],
+
+    "spell": [
+      "Dungeon Master's Guide",
+      "Player's Handbook",
+      "Sword Coast Adventurer's Guide",
+      "Tasha's Cauldron of Everything",
+      "Xanathar's Guide to Everything"
+    ]
+  },
+
+  "overrides": [
+    { "name": "Silvery Barbs", "ok": true },
+    { "name": "Expert Sidekick", "ok": false },
+    { "name": "Spellcaster Sidekick", "ok": false },
+    { "name": "Warrior Sidekick", "ok": false }
+  ]
+}
